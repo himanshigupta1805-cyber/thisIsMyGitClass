@@ -10,11 +10,17 @@ configuring means like while writing the code on terminal, the changes should be
 // to add changes to git, there are three phases:
 1. add the change(can also skip this pjase and directly commit)- adding the changes
 2. commit the change- it means recording the changes
-3. push- to upload local repo content to remote
+3. push- to upload local repo content to remote<br>
+command to push: git push origin main<br>
+here 'origin' is the name of my remote, it is upto me if I want to keep this name or can change also<br>
+main is the name of the branch
   
 <br>
 remote- means github account
 local- means folders on my machine/laptop
+<br><br>
+
+now if I start my folder with local and want it on remote as well, init command is used
 
 <br>
 there are two types of files, normal and hidden
