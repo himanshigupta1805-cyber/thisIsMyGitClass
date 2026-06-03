@@ -7,9 +7,10 @@ configuring means like while writing the code on terminal, the changes should be
 
 
 
-// to add changes to git, there are two phases:
-1. add the change(can also skip this pjase and directly commit)
-2. 2. commit the change
+// to add changes to git, there are three phases:
+1. add the change(can also skip this pjase and directly commit)- adding the changes
+2. commit the change- it means recording the changes
+3. push- to upload local repo content to remote
   
 <br>
 remote- means github account
